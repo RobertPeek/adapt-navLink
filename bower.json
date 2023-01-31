@@ -1,0 +1,17 @@
+{
+  "name": "adapt-navLink",
+  "version": "1.0.0",
+  "framework": ">=5.19.1",
+  "homepage": "https://github.com/RobertPeek/adapt-navLink",
+  "issues": "https://github.com/RobertPeek/adapt-navLink/issues",
+  "displayName" : "Nav Link",
+  "extension" : "navlink",
+  "description": "An extension that allows a button to be added to an article, block or component which links to another location",
+  "main": "/js/adapt-navLink.js",
+  "keywords": [
+    "adapt-plugin",
+    "adapt-extension"
+  ],
+  "license": "GPL-3.0",
+  "targetAttribute": "_navLink"
+}
